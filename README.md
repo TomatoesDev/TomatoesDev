@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Tom 👋
+
+## What I Do:
+- Roblox Scripting (Lua)
+- Little bit of Unity knowledge
+- HTML, CSS + JS
+- Game systems & tools
+
+## Projects
+- Roblox Game, "ClashKing"
+- AI Chrome Widget
+- Wordle Chrome Widget
 
 <!--
 **TomatoesDev/TomatoesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
