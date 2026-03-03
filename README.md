@@ -3,7 +3,7 @@
 ## What I Do:
 - Roblox Scripting (Lua)
 - Little bit of Unity knowledge
-- HTML, CSS + JS
+- Little bit of HTML, CSS, JS, C#, C++
 - Game systems & tools
 
 ## Projects
