@@ -7,7 +7,8 @@
 - Game systems & tools
 
 ## Projects
-- Roblox Game, "ClashKing"
+- Roblox Game, "ClashKing" - not released
+- Roblox Game, "Steal A Part" - not released
 - AI Chrome Widget
 - Wordle Chrome Widget
 
